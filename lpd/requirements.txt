@@ -1,0 +1,8 @@
+lxml
+tqdm
+cv2
+absl-py
+easydict
+matplotlib
+pillow
+pytesseract
